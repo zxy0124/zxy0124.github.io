@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2017 12:58:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 21:08:34 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OnlyEnglish</title>
+      <link>http://example.org/blog/onlyenglish/</link>
+      <pubDate>Thu, 05 Oct 2017 21:08:34 +0800</pubDate>
+      
+      <guid>http://example.org/blog/onlyenglish/</guid>
+      <description>onlyEnglishin Blog cat</description>
+    </item>
     
     <item>
       <title>Mia的作业</title>
@@ -18,15 +27,6 @@
       
       <guid>http://example.org/post/mia%E7%9A%84%E4%BD%9C%E4%B8%9A/</guid>
       <description>aaa</description>
-    </item>
-    
-    <item>
-      <title>Mia的作业</title>
-      <link>http://example.org/mia%E7%9A%84%E4%BD%9C%E4%B8%9A/</link>
-      <pubDate>Thu, 05 Oct 2017 12:57:23 +0800</pubDate>
-      
-      <guid>http://example.org/mia%E7%9A%84%E4%BD%9C%E4%B8%9A/</guid>
-      <description></description>
     </item>
     
     <item>
